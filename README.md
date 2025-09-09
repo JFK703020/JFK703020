@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JFK703020
+- 👋 Hi, I’m Jeremiah Kim
 
 <!---
 JFK703020/JFK703020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
